@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently learning about how to code in python in my program design and implementation class!
+Ask me about reading novels or manga!
+Pronouns: she/her
+Fun fact: I love to play volleyball!!
