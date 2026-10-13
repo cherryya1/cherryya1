@@ -2,6 +2,10 @@
 
 I am a Second-year Computer Science Student with a Human-Centered Computing concentration. I'm interested in UI and visual design, theming, and making apps feel smooth and intuitive.
 
+### Technical Skills
+**Languages:** Java, Python, C/C++
+**Developer Tools:** Git, VS Code, PyCharm, Figma
+
 ## Get in Touch!
 
 [LinkedIn](https://www.linkedin.com/in/cherry-a-b4355b35a/) · anthony.che@northeastern.edu
