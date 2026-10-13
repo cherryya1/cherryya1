@@ -4,6 +4,7 @@ I am a Second-year Computer Science Student with a Human-Centered Computing conc
 
 ### Technical Skills
 **Languages:** Java, Python, C/C++
+
 **Developer Tools:** Git, VS Code, PyCharm, Figma
 
 ## Get in Touch!
